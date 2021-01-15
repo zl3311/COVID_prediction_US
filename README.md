@@ -9,15 +9,15 @@ This repository contains:
 .
 ├── covid_api
 │    ├── web
-|    |    ├── data
-|    |    |    ├── data_pred.pkl
-|    |    |    ├── dict_state_params.pkl
-|    |    |    ├── scaler.pkl
-|    |    |    └── model_new.h5
-|    |    ├── app.py
-|    |    ├── Dockerfile
-|    |    └── requirements.txt
-|    └── docker-compose.yml   
+│    │    ├── data
+│    │    │    ├── data_pred.pkl
+│    │    │    ├── dict_state_params.pkl
+│    │    │    ├── scaler.pkl
+│    │    │    └── model_new.h5
+│    │    ├── app.py
+│    │    ├── Dockerfile
+│    │    └── requirements.txt
+│    └── docker-compose.yml   
 ├── COVID_predict.ipynb
 ├── LICENSE
 └── README.md
